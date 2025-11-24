@@ -338,51 +338,6 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Setup
-```bash
-git clone https://github.com/your-username/financial-qa-system.git
-cd financial-qa-system
-pip install -e ".[dev]"
-pre-commit install
-```
-
-### Code Style
-- Follow PEP 8 guidelines
-- Use type hints
-- Include docstrings for all functions
-- Write unit tests for new features
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **LangGraph Team** for the excellent workflow orchestration framework
-- **Google AI** for the Gemini 2.5 Flash model
-- **Hugging Face** for sentence transformer models
-- **ChromaDB** for vector storage solutions
-
-## 📚 Citation
-
-If you use FinancialQAnalyst in your research, please cite:
-
-```bibtex
-@software{financialqanalyst2024,
-  title = {FinancialQAnalyst: Advanced AI-Powered Financial Document Analysis System},
-  author = {Chinta, Siva Madhav and Mahajan, Lohitaksh and Aggarwal, Shrey},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/your-username/financial-qa-system}
-}
-```
-
----
-
 
 [![IIT Bombay](https://img.shields.io/badge/IIT-Bombay-blue?style=flat&logo=google-scholar)](https://www.iitb.ac.in/)
 
