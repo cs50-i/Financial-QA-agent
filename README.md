@@ -8,6 +8,8 @@
 
 FinancialQAnalyst is a sophisticated AI-powered system designed for intelligent financial document analysis and question-answering. Built on the LangGraph framework and powered by Google's Gemini 2.5 Flash, the system processes both structured financial Q&A datasets and unstructured 10-K PDF filings to provide comprehensive, context-aware financial analysis.
 
+**GitHub Repository**: [https://github.com/cs50-i/Financial-QA-agent](https://github.com/cs50-i/Financial-QA-agent)
+
 ## 🚀 Key Features
 
 - **Multi-Modal Document Processing**: Handles both structured Q&A datasets and unstructured PDF filings
@@ -57,8 +59,8 @@ FinancialQAnalyst/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/financial-qa-system.git
-cd financial-qa-system
+git clone https://github.com/cs50-i/Financial-QA-agent.git
+cd Financial-QA-agent
 ```
 
 ### Step 2: Install Dependencies
@@ -94,7 +96,7 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 ## 📁 Project Structure
 
 ```
-financial-qa-system/
+Financial-QA-agent/
 ├── src/
 │   ├── __init__.py
 │   ├── gemini_qa_system.py      # Main system class
@@ -338,6 +340,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 ```
 
+*Siva Madhav Chinta (21d070020) • Lohitaksh Mahajan (21d070042) • Shrey Aggarwal (21d070039)*
 
 [![IIT Bombay](https://img.shields.io/badge/IIT-Bombay-blue?style=flat&logo=google-scholar)](https://www.iitb.ac.in/)
 
