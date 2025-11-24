@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0.0.40-green)
 ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📋 Overview
 
@@ -368,12 +367,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Hugging Face** for sentence transformer models
 - **ChromaDB** for vector storage solutions
 
-## 📞 Support
-
-- **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/your-username/financial-qa-system/issues)
-- **Email**: team@financial-qa-system.com
-
 ## 📚 Citation
 
 If you use FinancialQAnalyst in your research, please cite:
@@ -390,11 +383,6 @@ If you use FinancialQAnalyst in your research, please cite:
 
 ---
 
-<div align="center">
-  
-**Built with ❤️ by Team FinancialQAnalyst**
-
-*Siva Madhav Chinta • Lohitaksh Mahajan • Shrey Aggarwal*
 
 [![IIT Bombay](https://img.shields.io/badge/IIT-Bombay-blue?style=flat&logo=google-scholar)](https://www.iitb.ac.in/)
 
